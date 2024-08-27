@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sajali Supunya</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mgsajali&label=Profile%20views&color=0e75b6&style=flat" alt="mgsajali" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mgsajali" alt="mgsajali" /></a> </p>
+
 
 - 🔭 I’m a **software engineering student**
 
@@ -23,4 +23,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mgsajali&show_icons=true&locale=en" alt="mgsajali" /></p>
 
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mgsajali&" alt="mgsajali" /></p>
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mgsajali" alt="mgsajali" /></a> </p>
